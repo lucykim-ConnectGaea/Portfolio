@@ -8,11 +8,11 @@ showcase:
   subtitle: "Geospatial Scientist"
   description: "Lucy is a specialist in Spatial Information Science and Remote Sensing. She has expertise in spatial analysis, GIS, and machine learning."
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/data-science2.gif"
+    _2x: "img/showcase/data-science2.gif"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/data-science2.gif"
+    _2x: "img/showcase/data-science2.gif"
 
   button:
     icon: "icon-mail-fill"
@@ -137,29 +137,41 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Land in Focus:Monitoring drought hazards"
+      description: "This project investigates the concept of drought, assesses drought risk, detects drought events, and monitors drought-related hazards and impacts."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
+        btnText: "Launch Storymap"
         URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/anomaly1.jpg"
+        _2x: "img/works/anomaly1.jpg"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Drought Impact on Crop health"
+      description: "How is crop health impacted by drought? 
+      Using earth observation data, this study attempts to determine how drought affects crop health during the growing season."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
+        btnText: "Launch StoryMap"
         URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/visualization1.jpg"
+        _2x: "img/works/visualization1.jpg"
+      is_even: true
+      
+    - title: "Anomalies Analysis of Soil Moisture and Precipitation"
+      description: "This study highlights the use of earth observation data to analyze soil moisture anomalies 
+      and precipitation to highlight drought episodes in Western Kenya between 2016 and 2024."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch StoryMap"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/soil1.jpg"
+        _2x: "img/works/soil1.jpg"
       is_even: false
 
-    
 # contact
 contact:
   enable: true
