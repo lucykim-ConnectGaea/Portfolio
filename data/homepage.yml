@@ -1,0 +1,194 @@
+head:
+  title: "Lucy Kimani Geospatial and Remote Sensing Expert"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Lucy Kimani."
+  subtitle: "Geospatial Scientist"
+  description: "Lucy is a specialist in Spatial Information Science and Remote Sensing. She has expertise in spatial analysis, GIS, and machine learning."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Lucy"
+    URL: "mailto:lucykimnjambi@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/lucy-kimani"
+
+    - icon: "github"
+      URL: "https://github.com/lucykim-ConnectGaea"
+
+    - icon: "twitter"
+      URL: "https://x.com/ConnectGaea"
+
+    - icon: "substack"
+      URL: "https://connectgaea.substack.com"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I am an enthusiastic geospatial data scientist, 
+    passionate about leveraging remote sensing and machine learning techniques to unravel complex spatial patterns. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to critical global challenges,
+    particularly the intersection of climate change, agriculture, and environmental resilience. 
+    Leveraging data-driven solutions, I strive to create positive impact by unraveling complex spatial patterns and contributing to a more sustainable and resilient world. 
+  
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/lucy-kimani"
+  image:
+    x: "img/who-am-i/user-picture@2x.jpg"
+    _2x: "img/who-am-i/user-picture@2x.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "With five years of experience, I have diligently worked to build efficient and robust workflows, 
+  particularly in the realm of geospatial data. 
+  My expertise lies in processing satellite imagery, creating accurate maps, and extracting meaningful insights from spatial datasets. 
+  Whether it’s analyzing land cover changes, modeling climate patterns, or optimizing resource allocation,
+  I thrive on translating geospatial data into actionable solutions."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/lucy-kimani"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/Kimani Lucy Njambi CV.pdf"
+
+  items:
+    - title: "Research Consultant"
+      company: " Alliance of Bioversity International and CIAT"
+      duration: "June 2021 - Dec 2023"
+
+    - title: "GIS Intern"
+      company: " Alliance of Bioversity International and CIAT"
+      duration: "June 2020 - Dec 2020"
+
+    - title: "GIS Intern"
+      company: "Geothermal Development Company"
+      duration: "Nov 2019 - April 2020"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Dedan Kimathi University of Technology"
+      year: "2015-2019"
+      degree: "Bachelor of Science in Geospatial Information Science and Remote Sensing"
+
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+
+    
+# contact
+contact:
+  enable: true
+  title: "Contact Lucy"
+    
+  image:
+    x: "img/who-am-i/user-picture@2x.jpg"
+    _2x: "img/who-am-i/user-picture@2x.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:lucykimnjambi@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+254790822741"
+  email:
+    title: "Email"
+    email: '<a href="mailto:lucykimnjambi@gmail.com">lucykimnjambi@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "--"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
