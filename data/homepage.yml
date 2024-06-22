@@ -141,8 +141,8 @@ client_and_work:
       description: "This project investigates the concept of drought, assesses drought risk, detects drought events, and monitors drought-related hazards and impacts."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Storymap"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        btnText: "Launch"
+        URL: "https://open.substack.com/pub/connectgaea/p/leveraging-earth-observation-monitoring?r=12ndkv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true/"
       image:
         x: "img/works/anomaly1.jpg"
         _2x: "img/works/anomaly1.jpg"
@@ -154,7 +154,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch StoryMap"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        URL: ""
       image:
         x: "img/works/visualization1.jpg"
         _2x: "img/works/visualization1.jpg"
@@ -166,7 +166,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch StoryMap"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        URL: ""
       image:
         x: "img/works/soil1.jpg"
         _2x: "img/works/soil1.jpg"
