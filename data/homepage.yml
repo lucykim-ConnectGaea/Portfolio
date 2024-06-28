@@ -165,8 +165,8 @@ client_and_work:
       and precipitation to highlight drought episodes in Western Kenya between 2016 and 2024."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch StoryMap"
-        URL: ""
+        btnText: "Launch"
+        URL: "https://open.substack.com/pub/connectgaea/p/anomaly-analysis-of-soil-moisture?r=12ndkv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
       image:
         x: "img/works/soil1.jpg"
         _2x: "img/works/soil1.jpg"
